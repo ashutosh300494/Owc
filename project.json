@@ -1,0 +1,487 @@
+{
+"country": "India",
+"State": "Maharashtra",
+"city": "Karad",
+"Propertyname":"Gangatowers",
+"Status":"Not Booked",
+"Propertydesc":"Nice Place and Productive env",
+"propertytype":"Officespace",
+"subtype":
+"Rental",
+"prize":"100000",
+
+"image":
+"https://images.pexels.com/photos/265129/pexels-photo-265129.jpeg?auto=compress&cs=tinysrgb&w=600 "
+},
+
+{
+"country": "India",
+"State": "Maharashtra",
+"city": "Pune",
+"Propertyname":"Eiontowers",
+"Status":"Not Booked",
+"Propertydesc":"The quality of your workspace impacts the quality of your work",
+"propertytype":"Dedicated Desk",
+"subtype":"Rental",
+"prize":"686869",
+
+"image":
+"https://images.pexels.com/photos/159839/office-home-house-desk-159839.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+},
+
+{
+"country": "India",
+"State": "Maharashtra",
+"city": "Pune",
+"Propertyname":"Trumptowers",
+"Status":"Not Booked",
+"Propertydesc":"A messy desk is a sign of a creative mind",
+"propertytype":"Dedicated Desk",
+"subtype":"Rental",
+"prize":"78788",
+
+"image":
+"https://images.pexels.com/photos/2682452/pexels-photo-2682452.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+},
+
+{
+"country": "India",
+"State": "Maharashtra",
+"city": "Pune",
+"Propertyname":"Trumptowers",
+"Status":"Not Booked",
+"Propertydesc":" Allows you to work efficiently and effectively",
+"propertytype":"Dedicated Desk",
+"subtype":"Rental",
+"prize":"686922",
+
+"image":
+"https://images.pexels.com/photos/2349211/pexels-photo-2349211.jpeg"
+},
+
+{
+"country": "India",
+"State": "Maharashtra",
+"city": "Pune",
+"Propertyname":"Mittaltowers",
+"Status":"Not Booked",
+"Propertydesc":"An organized office leads to an organized mind.",
+"propertytype":"Officespace",
+"subtype":"Rental",
+"prize":"10000",
+
+"image":
+"https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 "
+},
+
+{
+"country": "India",
+"State": "Maharashtra",
+"city": "Pune",
+"Propertyname":"Trumptowers",
+"Status":"Not Booked",
+"Propertydesc":"The office is where the magic happens - where plans turn into action, and ideas become reality.",
+"propertytype":"Officespace",
+"subtype":"Rental",
+"prize":"125893",
+
+"image":
+"https://images.pexels.com/photos/1181396/pexels-photo-1181396.jpeg?auto=compress&cs=tinysrgb&w=400 "
+},
+
+{
+"country": "India",
+"State": "Maharashtra",
+"city": "Pune",
+"Propertyname":"ABILtowers",
+"Status":"Not Booked",
+"Propertydesc":"Your office should be a place where you can think, create, and collaborate",
+"propertytype":"Officespace",
+"subtype":"Rental",
+"prize":"68978",
+
+"image":
+"https://images.pexels.com/photos/3183172/pexels-photo-3183172.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+},
+
+{
+"country": "India",
+"State": "Maharashtra",
+"city": "Pune",
+"Propertyname":"Amanora Gateway Towers",
+"Status":"Not Booked",
+"Propertydesc":"The fondest memories are made when gathered around the table",
+"propertytype":"Restaurant",
+"subtype":"Rental",
+"prize":"125893",
+
+"image":
+"https://images.pexels.com/photos/1581384/pexels-photo-1581384.jpeg?auto=compress&cs=tinysrgb&w=400"
+},
+
+{
+"country": "India",
+"State": "Maharashtra",
+"city": "Pune",
+"Propertyname":"Amanora Future",
+"Status":"Not Booked",
+"Propertydesc":"A recipe has no soul. You as the cook must bring soul to the recipe.",
+"propertytype":"Restaurant",
+"subtype":"Rental",
+"prize":"985896",
+
+"image":
+"https://images.pexels.com/photos/2788792/pexels-photo-2788792.jpeg?auto=compress&cs=tinysrgb&w=400"
+},
+
+{
+"country": "India",
+"State": "Maharashtra",
+"city": "Pune",
+"Propertyname":"Amanora Future",
+"Status":"Not Booked",
+"Propertydesc":"Food tastes better when you eat it with your family.",
+"propertytype":"Restaurant",
+"subtype":"Rental",
+"prize":"689528",
+
+"image":
+"https://images.pexels.com/photos/2888679/pexels-photo-2888679.jpeg?auto=compress&cs=tinysrgb&w=400"
+},
+
+{
+"country": "India",
+"State": "Maharashtra",
+"city": "Pune",
+"Propertyname":"Amanora Adreno",
+"Status":"Not Booked",
+"Propertydesc":"There is no sincerer love than the love of food.",
+"propertytype":"Restaurant",
+"subtype":"Rental",
+"prize":"1212155",
+
+"image":
+"https://images.pexels.com/photos/1058277/pexels-photo-1058277.jpeg?auto=compress&cs=tinysrgb&w=400"
+},
+
+{
+"country": "India",
+"State": "Maharashtra",
+"city": "Pune",
+"Propertyname":"Lodha Belmendo",
+"Status":"Not Booked",
+"Propertydesc":"A restaurant is a fantasy-a kind of living fantasy in which diners are the most important members of the cast",
+"propertytype":"Restaurant",
+"subtype":"Rental",
+"prize":"1569155",
+
+"image":
+"https://images.pexels.com/photos/3201921/pexels-photo-3201921.jpeg?auto=compress&cs=tinysrgb&w=400"
+},
+
+{
+"country": "India",
+"State": "Maharashtra",
+"city": "Pune",
+"Propertyname":"Lodha Belmendo",
+"Status":"Not Booked",
+"Propertydesc":"The more that you read, the more things you will know. The more that you learn, the more places you'll go.",
+"propertytype":"Educational",
+"subtype":"Rental",
+"prize":"8056985",
+
+"image":
+"https://images.pexels.com/photos/207691/pexels-photo-207691.jpeg?auto=compress&cs=tinysrgb&w=400"
+},
+
+{
+"country": "India",
+"State": "Maharashtra",
+"city": "Pune",
+"Propertyname":"Megapolis Mystic",
+"Status":"Not Booked",
+"Propertydesc":"Education is not the filling of a pail, but the lighting of a fire.",
+"propertytype":"Educational",
+"subtype":"Rental",
+"prize":"965482",
+
+"image":
+"https://images.pexels.com/photos/3864594/pexels-photo-3864594.jpeg?auto=compress&cs=tinysrgb&w=400"
+},
+
+{
+"country": "India",
+"State": "Maharashtra",
+"city": "Pune",
+"Propertyname":"ABIL God's Blessing",
+"Status":"Not Booked",
+"Propertydesc":"The only person who is educated is the one who has learned how to learn and change.",
+"propertytype":"Educational",
+"subtype":"Rental",
+"prize":"1258250",
+
+"image":
+"https://images.pexels.com/photos/5212345/pexels-photo-5212345.jpeg?auto=compress&cs=tinysrgb&w=400"
+},
+
+{
+"country": "India",
+"State": "Maharashtra",
+"city": "Pune",
+"Propertyname":"Blue Ridge",
+"Status":"Not Booked",
+"Propertydesc":"Education is the most powerful weapon which you can use to change the world.",
+"propertytype":"Educational",
+"subtype":"Rental",
+"prize":"158250",
+
+"image":
+"https://images.pexels.com/photos/716276/pexels-photo-716276.jpeg?auto=compress&cs=tinysrgb&w=400"
+},
+
+{
+"country": "India",
+"State": "Maharashtra",
+"city": "Pune",
+"Propertyname":"Nyati Elysia",
+"Status":"Not Booked",
+"Propertydesc":"The mind is not a vessel to be filled, but a fire to be kindled.",
+"propertytype":"Educational",
+"subtype":"Rental",
+"prize":"988250",
+
+"image":
+"https://images.pexels.com/photos/5212329/pexels-photo-5212329.jpeg?auto=compress&cs=tinysrgb&w=400"
+},
+
+{
+"country": "India",
+"State": "Maharashtra",
+"city": "Pune",
+"Propertyname":"Blue Ridge",
+"Status":"Not Booked",
+"Propertydesc":"A restaurant is a place where one should celebrate the simple things in life, like friends and family.",
+"propertytype":"Restaurant",
+"subtype":"Rental",
+"prize":"786531",
+
+"image":
+"https://images.pexels.com/photos/262882/pexels-photo-262882.jpeg?auto=compress&cs=tinysrgb&w=600"
+},
+
+{
+"country": "India",
+"State": "Maharashtra",
+"city": "Pune",
+"Propertyname":"Amanora Neo",
+"Status":"Not Booked",
+"Propertydesc":"The restaurant business is a people business. You have to be good with people to be successful.",
+"propertytype":"Restaurant",
+"subtype":"Rental",
+"prize":"786531",
+
+"image":
+"https://images.pexels.com/photos/1395964/pexels-photo-1395964.jpeg?auto=compress&cs=tinysrgb&w=600"
+},
+
+{
+"country": "India",
+"State": "Maharashtra",
+"city": "Pune",
+"Propertyname":"Castel Royale",
+"Status":"Not Booked",
+"Propertydesc":"A restaurant is a place where you go to celebrate a special occasion, where you go to have a meal that is a cut above the rest.",
+"propertytype":"Restaurant",
+"subtype":"Rental",
+"prize":"1047746",
+
+"image":
+"https://images.pexels.com/photos/460537/pexels-photo-460537.jpeg?auto=compress&cs=tinysrgb&w=600"
+},
+
+{
+"country": "India",
+"State": "Maharashtra",
+"city": "Pune",
+"Propertyname":"Life Republic",
+"Status":"Not Booked",
+"Propertydesc":"A restaurant is a place where you can indulge in delicious food, great wine, and wonderful company.",
+"propertytype":"Restaurant",
+"subtype":"Rental",
+"prize":"345123",
+
+"image":
+"https://images.pexels.com/photos/57980/pexels-photo-57980.jpeg?auto=compress&cs=tinysrgb&w=600"
+},
+
+{
+"country": "India",
+"State": "Maharashtra",
+"city": "Pune",
+"Propertyname":"Solitare Central",
+"Status":"Not Booked",
+"Propertydesc":"restaurants are always the ones where you feel like you're dining in someone's home.",
+"propertytype":"Restaurant",
+"subtype":"Rental",
+"prize":"134521",
+
+"image":
+"https://images.pexels.com/photos/390658/pexels-photo-390658.jpeg?auto=compress&cs=tinysrgb&w=600"
+},
+
+{
+"country": "India",
+"State": "Maharashtra",
+"city": "Pune",
+"Propertyname":"City Rise by Amanora",
+"Status":"Not Booked",
+"Propertydesc":A great restaurant is one that just makes you feel like you're not sure whether you went out or you came home and confuses you. If it can do both of those things at the same time, you're hooked."restaurants are always the ones where you feel like you're dining in someone's home.",
+"propertytype":"Restaurant",
+"subtype":"Rental",
+"prize":"134521",
+
+"image":
+"https://images.pexels.com/photos/390658/pexels-photo-390658.jpeg?auto=compress&cs=tinysrgb&w=600"
+},
+
+{
+"country": "India",
+"State": "Maharashtra",
+"city": "Pune",
+"Propertyname":"Urban Skyline 1",
+"Status":"Not Booked",
+"Propertydesc":"restaurants are always the ones where you feel like you're dining in someone's home.",
+"propertytype":"Restaurant",
+"subtype":"Rental",
+"prize":"231678",
+
+"image":
+"https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg?auto=compress&cs=tinysrgb&w=600"
+},
+
+{
+"country": "India",
+"State": "Maharashtra",
+"city": "Pune",
+"Propertyname":"One Boat Club Road A",
+"Status":"Not Booked",
+"Propertydesc":"A restaurant is like a theater. The chef is the director, the menu is the script, and the guests are the audience.",
+"propertytype":"Restaurant",
+"subtype":"Rental",
+"prize":"231678",
+
+"image":
+"https://images.pexels.com/photos/2544829/pexels-photo-2544829.jpeg?auto=compress&cs=tinysrgb&w=600"
+},
+
+{
+"country": "India",
+"State": "Maharashtra",
+"city": "Pune",
+"Propertyname":"Balmore Tower A",
+"Status":"Not Booked",
+"Propertydesc":"A restaurant is a place where you go to celebrate life.",
+"propertytype":"Restaurant",
+"subtype":"Rental",
+"prize":"219086",
+
+"image":
+"https://images.pexels.com/photos/1601775/pexels-photo-1601775.jpeg?auto=compress&cs=tinysrgb&w=600"
+},
+
+{
+"country": "India",
+"State": "Maharashtra",
+"city": "Pune",
+"Propertyname":"Amanora Gateway Tower II	",
+"Status":"Not Booked",
+"Propertydesc":"A restaurant is a story. It's a place where people come together to share moments, celebrate, and create memories.",
+"propertytype":"Restaurant",
+"subtype":"Rental",
+"prize":"982514",
+
+"image":
+"https://images.pexels.com/photos/1055058/pexels-photo-1055058.jpeg?auto=compress&cs=tinysrgb&w=600"
+},
+
+
+{
+"country": "India",
+"State": "Maharashtra",
+"city": "Pune",
+"Propertyname":"City Rise by Amanora",
+"Status":"Not Booked",
+"Propertydesc":"Education is the passport to the future, for tomorrow belongs to those who prepare for it today",
+"propertytype":"Educational",
+"subtype":"Rental",
+"prize":"132672",
+
+"image":
+"https://images.pexels.com/photos/356065/pexels-photo-356065.jpeg?auto=compress&cs=tinysrgb&w=600"
+},
+
+{
+"country": "India",
+"State": "Maharashtra",
+"city": "Pune",
+"Propertyname":"Prestige Falcon City Tower 1",
+"Status":"Not Booked",
+"Propertydesc":"Education is not preparation for life; education is life itself.",
+"propertytype":"Educational",
+"subtype":"Rental",
+"prize":"767828",
+
+"image":
+"https://images.pexels.com/photos/3747511/pexels-photo-3747511.jpeg?auto=compress&cs=tinysrgb&w=600"
+},
+
+{
+"country": "India",
+"State": "Maharashtra",
+"city": "Pune",
+"Propertyname":"Mantri Central",
+"Status":"Not Booked",
+"Propertydesc":"The mind is not a vessel to be filled, but a fire to be kindled",
+"propertytype":"Educational",
+"subtype":"Rental",
+"prize":"2827871",
+
+"image":
+"https://images.pexels.com/photos/5940841/pexels-photo-5940841.jpeg?auto=compress&cs=tinysrgb&w=600"
+},
+
+{
+"country": "India",
+"State": "Maharashtra",
+"city": "Pune",
+"Propertyname":"Brigade Exotica 2",
+"Status":"Not Booked",
+"Propertydesc":"The function of education is to teach one to think intensively and to think critically. Intelligence plus character - that is the goal of true education.",
+"propertytype":"Educational",
+"subtype":"Rental",
+"prize":"716111",
+
+"image":
+"https://images.pexels.com/photos/5905445/pexels-photo-5905445.jpeg?auto=compress&cs=tinysrgb&w=600"
+},
+
+{
+"country": "India",
+"State": "Maharashtra",
+"city": "Pune",
+"Propertyname":"Kingfisher Towers",
+"Status":"Not Booked",
+"Propertydesc":"Education is the passport to the future, for tomorrow belongs to those who prepare for it today.",
+"propertytype":"Educational",
+"subtype":"Rental",
+"prize":"728738",
+
+"image":
+"https://images.pexels.com/photos/5905445/pexels-photo-5905445.jpeg?auto=compress&cs=tinysrgb&w=600"
+},
+
+
+
+
+
+
